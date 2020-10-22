@@ -1,0 +1,9 @@
+.button-add {
+  display: flex;
+  height: 40px;
+  width: 30%;
+  background-color: #17a2b8;
+  color: #fff;
+  border-radius: 0 0 10px 10px;
+  margin-left: 3px;
+}
